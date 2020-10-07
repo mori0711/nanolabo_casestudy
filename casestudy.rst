@@ -4,5 +4,5 @@
 .. toctree::
    :maxdepth: 2
 
-   setting/semiconductor.rst
+   casestudy/semiconductor.rst
 
