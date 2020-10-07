@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'NanoLabo 事例紹介
+project = u'NanoLabo 事例紹介'
 copyright = u'Nano-team'
 
 # The version info for the project you're documenting, acts as replacement for
